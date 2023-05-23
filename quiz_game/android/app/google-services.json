@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086217684048",
+    "firebase_url": "https://quiz-flutter-59875-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quiz-flutter-59875",
+    "storage_bucket": "quiz-flutter-59875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086217684048:android:e44f23005e304588eb7d55",
+        "android_client_info": {
+          "package_name": "com.example.quiz_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086217684048-hk3rscftseaisibrd7q9ouapneckj2kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGZNg4sI4WhZ5cm3_MGjDuewW4QnGtjEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086217684048-hk3rscftseaisibrd7q9ouapneckj2kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
